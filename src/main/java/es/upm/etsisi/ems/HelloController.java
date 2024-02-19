@@ -24,4 +24,3 @@ public class HelloController {
         return "hola";
     }
 
-}
